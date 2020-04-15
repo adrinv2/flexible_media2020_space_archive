@@ -5,3 +5,7 @@
 ---
 >> - [About the Space Archive](#about-the-space-archive)
 >> - [Sources of inspiration](#sources-of-inspiration)
+>>    - [SketchUp tutorials](#sketchup-tutorials)
+>>    - [Visual references](#visual-references)
+>> - [Hand drawn sketches](#hand-drawn-sketches)
+>> - [Process on SketchUp](#process-on-sketchup)
