@@ -14,3 +14,7 @@
 
 
 # About the Space Archive
+
+Reflecting on an event that took place with the CNT right before the end of the Spanish Civil War, in which CNT material was sent in crates quickly to Amsterdam to be protected. It was archived there years later, after the Second World War, and remains there at lack of resources and space to maintain it by part of the CNT.
+
+The social movement I came up with for my assignment was the idea of a Space Archive. That is, that in a state of emergency like that of the CNT during the Spanish Civil War, this foundation would archive the material, creating multiple copies in different mediums and sending some of this material to an archive situated in space.
